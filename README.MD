@@ -1,4 +1,3 @@
-
 # 🚗⚡ EV Charging Demand Analysis & Forecasting
 
 ## 📌 Project Overview
@@ -130,7 +129,7 @@ Additional Files:
 ## 🚀 How to Run
 
 1. Clone this repository and download the datasets.  
-2. Open **Power BI file (`.pbix`)** → refresh data source connections.  
+2. Open **Power BI file (`.pbix`)** 
 3. Explore dashboards with filters (date, station, vehicle, weather).  
 4. Run **`EV_Charging Demand Forecasting.ipynb`** for forecasting experiments.  
 

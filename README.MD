@@ -97,11 +97,20 @@ Additional Files:
 
 ---
 
-![NETWORK OVERVIEW](images/PAGE-1.png)  
-![Station Performance & Operations](images/PAGE-2.png)  
-![User & Vehicle Insights ](images/PAGE-3.png)  
-![Time-of-Day & Weather Impact ](images/PAGE-4.png)  
-![Forecasting & Planning ](images/PAGE-5.png)  
+## 📊 Network Overview
+![Network Overview](images/PAGE-1.png)
+
+## 🏙️ Station Performance & Operations
+![Station Performance & Operations](images/PAGE-2.png)
+
+## 👥 User & Vehicle Insights
+![User & Vehicle Insights](images/PAGE-3.png)
+
+## 🌤️ Time-of-Day & Weather Impact
+![Time-of-Day & Weather Impact](images/PAGE-4.png)
+
+## 🔮 Forecasting & Planning
+![Forecasting & Planning](images/PAGE-5.png)
 
 ## 📦 Deliverables
 - ✅ Cleaned datasets (`.csv`)  

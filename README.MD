@@ -76,7 +76,7 @@ Additional Files:
 - **Peak Hour**: 8:00 AM  
 - **Peak Demand**: 1,231.12 kWh  
 - **Best Weather Condition**: Cloudy (highest charging activity)  
-![EV CHARGING DEMAND FORECAST -ARIMA ](images/PAGE-5.png)  
+![EV CHARGING DEMAND FORECAST -ARIMA ](images/ARIMA.png)  
 ---
 
 ## 🔑 Key Insights
